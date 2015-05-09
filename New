@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,Sky Sports 2
-rtmp://31.220.0.206/redirect/ app=redirect/ swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php live=s2r vw=620 vh=490
-
+rtmp://31.220.0.206:1935/live/_definst_/s2r app=live swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php live=s2r clientid=A secureToken= Hadd18afac60f6e3bac4b4b793401530df37c54e2dd1efd56671041434dac1ae534f1b55a
 
 #EXTINF:-1, The Great Escape (1963)
 http://dl1.ipithos.to:182/d/rm6rr2773o4pc44um2rqegxkqsjmqifvtutkwyh6xok534kpdsavic5t/The.Great.Escape.1963.HDTVRip.x264.YIFY.mkv.mp4.mp4
